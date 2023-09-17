@@ -29,7 +29,6 @@
 
 - **Back-End Development**:
 
-    ![NODEJS](https://img.shields.io/badge/NODEJS%20-%2363985E.svg?style=for-the-badge&logo=nodejs&logoColor=white)
     ![LUA](https://img.shields.io/badge/LUA%20-%23000079.svg?style=for-the-badge&logo=lua%2B%2B&logoColor=white)
 
 <br>   
@@ -37,34 +36,19 @@
 - **Front-End Development**:
 
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
 - **Databases**:
 
    ![MYSQL](https://img.shields.io/badge/MYSQL%20-%234f7b99.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   ![SQLSERVER](https://img.shields.io/badge/SqlServer%20-%23ae1b1b.svg?style=for-the-badge&logo=sqlserver&logoColor=black)
 
-<br>
-
-- **Cloud Hosting**:
-
-    ![Google Cloud PLatform](https://img.shields.io/badge/Google%20Cloud%20Platform-%23d6d7d9.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 <br>
 
 - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 </p>
