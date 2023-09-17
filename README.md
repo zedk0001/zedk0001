@@ -18,7 +18,6 @@
 - I love QBCore <3
 - I am a FiveM Developer and have my own Custom Framework 
 - I'm a wannabe dev that is too lazy and is still learning the basic
-- Currently learning Another Javascript framework
 - I love to help people with some Fivem Development basic issues and do some simple scripts
 
 <br><br>
