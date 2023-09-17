@@ -19,16 +19,6 @@
 - I'm a Fivem Developer (QBCore)
 - Currently learning Another Javascript framework
 
-
-
-- 🔭 I’m currently working on [bbv.world](https://bbv.world)
-
-- 🌱 I’m currently learning **Frontend**
-
-- 👨‍💻 All of my projects are available at [bbv.world](http://bbv.world)
-
-- 📫 How to reach me **admin@bbv.world**
-
 -----
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddynotfound" alt="buddynotfound" /></a> </p>
