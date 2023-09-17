@@ -1,4 +1,3 @@
-<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/raw/main/banner.png" alt="Github Banner" style="max-width: 100%;">
 
 <p align="center">
   <img width="160" height="100" src="https://cdn.discordapp.com/attachments/1074256236821889055/1152969457568845854/WbCGX9s.png">
