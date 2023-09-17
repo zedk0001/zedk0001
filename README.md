@@ -15,6 +15,9 @@
 
 <br>
 
+- I am a FiveM Developer and have my own Custom Framework 
+- I'm a Fivem Developer (QBCore)
+- Currently learning Another Javascript framework
 
 
 
