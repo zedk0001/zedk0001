@@ -1,3 +1,4 @@
+<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/raw/main/banner.png" alt="Github Banner" style="max-width: 100%;">
 
 <p align="center">
   <img width="160" height="100" src="https://cdn.discordapp.com/attachments/1074256236821889055/1152969457568845854/WbCGX9s.png">
@@ -22,10 +23,7 @@
 
 <br>
 
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
+
 
 
 - 🔭 I’m currently working on [bbv.world](https://bbv.world)
