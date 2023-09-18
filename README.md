@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="160" height="100" src="https://cdn.discordapp.com/attachments/1101332598699073556/1102713887746445312/27275B2E-D787-4F32-BFEC-653D8B65564F.gif">
+  <img width="160" height="100" src="https://cdn.discordapp.com/attachments/1074256236821889055/1152969457568845854/WbCGX9s.png">
 </p>
 
 <h1 align="center"><b>Hi , I'm Zedk </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
